@@ -1,0 +1,501 @@
+season,team1,team2,winner,batting_order,total_runs,bowling_team,extras
+2016,Rajasthan Royals,Punjab Kings,Punjab Kings,first,222,Rajasthan Royals,19
+2015,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,second,212,Kolkata Knight Riders,14
+2015,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,second,226,Royal Challengers Bangalore,7
+2015,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,second,180,Rajasthan Royals,20
+2019,Punjab Kings,Delhi Capitals,Punjab Kings,first,222,Punjab Kings,18
+2015,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,second,206,Sunrisers Hyderabad,10
+2019,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,second,194,Kolkata Knight Riders,23
+2022,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,first,219,Sunrisers Hyderabad,7
+2018,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,first,143,Royal Challengers Bangalore,2
+2021,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,first,141,Royal Challengers Bangalore,20
+2019,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,second,121,Rajasthan Royals,23
+2018,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,first,227,Sunrisers Hyderabad,5
+2016,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,second,121,Royal Challengers Bangalore,20
+2016,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,first,152,Rajasthan Royals,11
+2022,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,second,177,Rajasthan Royals,21
+2018,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,second,227,Rajasthan Royals,24
+2016,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,first,168,Royal Challengers Bangalore,9
+2023,Mumbai Indians,Punjab Kings,Punjab Kings,second,211,Mumbai Indians,15
+2021,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,second,134,Royal Challengers Bangalore,14
+2016,Chennai Super Kings,Punjab Kings,Chennai Super Kings,first,181,Chennai Super Kings,18
+2019,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,second,227,Rajasthan Royals,22
+2018,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,first,183,Kolkata Knight Riders,24
+2020,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,second,122,Kolkata Knight Riders,4
+2017,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,second,170,Kolkata Knight Riders,6
+2017,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,first,140,Delhi Capitals,8
+2019,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,second,158,Kolkata Knight Riders,17
+2019,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,second,123,Sunrisers Hyderabad,24
+2021,Delhi Capitals,Punjab Kings,Delhi Capitals,second,179,Delhi Capitals,13
+2017,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,second,128,Chennai Super Kings,20
+2018,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,second,121,Rajasthan Royals,19
+2023,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,second,211,Rajasthan Royals,14
+2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,second,179,Sunrisers Hyderabad,6
+2021,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,first,163,Chennai Super Kings,7
+2017,Chennai Super Kings,Punjab Kings,Punjab Kings,second,166,Punjab Kings,2
+2020,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,second,197,Sunrisers Hyderabad,16
+2021,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,second,155,Rajasthan Royals,17
+2016,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,second,223,Sunrisers Hyderabad,3
+2019,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,second,121,Kolkata Knight Riders,5
+2023,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,second,173,Sunrisers Hyderabad,9
+2022,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,second,123,Rajasthan Royals,21
+2021,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,first,212,Kolkata Knight Riders,17
+2021,Punjab Kings,Delhi Capitals,Punjab Kings,first,209,Punjab Kings,11
+2020,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,first,153,Mumbai Indians,9
+2022,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,second,181,Mumbai Indians,3
+2018,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,second,133,Kolkata Knight Riders,15
+2021,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,second,134,Royal Challengers Bangalore,7
+2021,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,second,197,Kolkata Knight Riders,22
+2020,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,first,181,Kolkata Knight Riders,7
+2020,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,first,204,Delhi Capitals,15
+2016,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,first,228,Royal Challengers Bangalore,17
+2017,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,first,172,Kolkata Knight Riders,23
+2023,Chennai Super Kings,Mumbai Indians,Mumbai Indians,first,145,Mumbai Indians,24
+2015,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,second,179,Kolkata Knight Riders,12
+2017,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,second,160,Rajasthan Royals,14
+2019,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,second,164,Royal Challengers Bangalore,0
+2015,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,first,208,Kolkata Knight Riders,6
+2016,Mumbai Indians,Delhi Capitals,Delhi Capitals,first,128,Mumbai Indians,23
+2020,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,first,120,Royal Challengers Bangalore,11
+2022,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,second,127,Royal Challengers Bangalore,23
+2015,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,first,182,Kolkata Knight Riders,10
+2021,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,first,200,Delhi Capitals,7
+2022,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,first,154,Kolkata Knight Riders,2
+2018,Punjab Kings,Delhi Capitals,Punjab Kings,first,152,Punjab Kings,4
+2019,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,first,225,Royal Challengers Bangalore,6
+2021,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,first,160,Royal Challengers Bangalore,6
+2016,Punjab Kings,Mumbai Indians,Punjab Kings,second,192,Mumbai Indians,7
+2020,Punjab Kings,Mumbai Indians,Mumbai Indians,second,131,Mumbai Indians,1
+2017,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,second,152,Sunrisers Hyderabad,15
+2017,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,first,142,Mumbai Indians,23
+2023,Punjab Kings,Delhi Capitals,Punjab Kings,first,156,Punjab Kings,2
+2018,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,first,163,Royal Challengers Bangalore,7
+2023,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,first,205,Royal Challengers Bangalore,2
+2023,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,first,184,Sunrisers Hyderabad,2
+2015,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,first,220,Rajasthan Royals,14
+2020,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,first,197,Kolkata Knight Riders,2
+2020,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,second,120,Royal Challengers Bangalore,4
+2017,Delhi Capitals,Mumbai Indians,Mumbai Indians,first,209,Mumbai Indians,22
+2019,Mumbai Indians,Delhi Capitals,Mumbai Indians,second,133,Mumbai Indians,6
+2016,Delhi Capitals,Mumbai Indians,Delhi Capitals,second,146,Delhi Capitals,8
+2018,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,first,198,Rajasthan Royals,14
+2019,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,second,209,Chennai Super Kings,9
+2016,Rajasthan Royals,Delhi Capitals,Delhi Capitals,second,196,Delhi Capitals,18
+2018,Chennai Super Kings,Punjab Kings,Chennai Super Kings,second,182,Chennai Super Kings,6
+2018,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,first,171,Delhi Capitals,3
+2021,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,second,213,Sunrisers Hyderabad,4
+2023,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,second,142,Rajasthan Royals,6
+2016,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,second,228,Rajasthan Royals,14
+2018,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,second,162,Mumbai Indians,3
+2019,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,first,132,Chennai Super Kings,6
+2023,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,second,178,Delhi Capitals,18
+2019,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,first,205,Delhi Capitals,1
+2022,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,first,161,Chennai Super Kings,12
+2017,Mumbai Indians,Delhi Capitals,Delhi Capitals,first,181,Mumbai Indians,24
+2015,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,second,125,Royal Challengers Bangalore,11
+2016,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,first,163,Sunrisers Hyderabad,19
+2021,Chennai Super Kings,Mumbai Indians,Mumbai Indians,second,149,Chennai Super Kings,10
+2015,Delhi Capitals,Chennai Super Kings,Delhi Capitals,first,211,Delhi Capitals,24
+2016,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,second,222,Royal Challengers Bangalore,0
+2021,Punjab Kings,Mumbai Indians,Mumbai Indians,first,120,Mumbai Indians,24
+2023,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,second,146,Royal Challengers Bangalore,24
+2023,Mumbai Indians,Chennai Super Kings,Mumbai Indians,second,196,Mumbai Indians,8
+2021,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,second,122,Chennai Super Kings,6
+2020,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,first,189,Sunrisers Hyderabad,7
+2018,Chennai Super Kings,Punjab Kings,Chennai Super Kings,second,146,Punjab Kings,8
+2022,Rajasthan Royals,Punjab Kings,Rajasthan Royals,second,181,Punjab Kings,4
+2015,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,first,216,Kolkata Knight Riders,18
+2021,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,second,225,Rajasthan Royals,11
+2015,Chennai Super Kings,Punjab Kings,Punjab Kings,first,143,Punjab Kings,14
+2023,Rajasthan Royals,Punjab Kings,Rajasthan Royals,second,178,Rajasthan Royals,21
+2019,Punjab Kings,Chennai Super Kings,Punjab Kings,first,151,Chennai Super Kings,23
+2015,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,second,224,Royal Challengers Bangalore,19
+2022,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,second,181,Delhi Capitals,16
+2021,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,first,177,Chennai Super Kings,19
+2023,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,first,131,Sunrisers Hyderabad,6
+2021,Chennai Super Kings,Delhi Capitals,Delhi Capitals,second,121,Delhi Capitals,2
+2022,Mumbai Indians,Punjab Kings,Punjab Kings,second,220,Mumbai Indians,16
+2023,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,first,175,Kolkata Knight Riders,16
+2017,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,second,178,Chennai Super Kings,16
+2022,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,second,121,Royal Challengers Bangalore,1
+2018,Rajasthan Royals,Mumbai Indians,Mumbai Indians,second,211,Rajasthan Royals,21
+2023,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,first,206,Mumbai Indians,4
+2015,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,second,215,Rajasthan Royals,0
+2022,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,second,120,Sunrisers Hyderabad,18
+2021,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,first,121,Rajasthan Royals,20
+2015,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,second,163,Kolkata Knight Riders,5
+2016,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,first,151,Sunrisers Hyderabad,22
+2019,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,first,187,Rajasthan Royals,22
+2023,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,first,194,Chennai Super Kings,23
+2016,Punjab Kings,Rajasthan Royals,Punjab Kings,second,136,Rajasthan Royals,5
+2015,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,second,143,Delhi Capitals,4
+2020,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,second,217,Delhi Capitals,5
+2016,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,second,205,Sunrisers Hyderabad,10
+2020,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,first,135,Chennai Super Kings,0
+2017,Punjab Kings,Delhi Capitals,Delhi Capitals,first,192,Delhi Capitals,5
+2022,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,second,199,Chennai Super Kings,2
+2023,Kolkata Knight Riders,Punjab Kings,Punjab Kings,first,139,Punjab Kings,3
+2022,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,first,138,Rajasthan Royals,2
+2019,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,second,138,Sunrisers Hyderabad,19
+2022,Kolkata Knight Riders,Punjab Kings,Punjab Kings,second,215,Kolkata Knight Riders,6
+2020,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,second,171,Chennai Super Kings,8
+2021,Delhi Capitals,Mumbai Indians,Delhi Capitals,second,152,Delhi Capitals,7
+2023,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,first,158,Punjab Kings,17
+2015,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,second,223,Kolkata Knight Riders,0
+2017,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,first,130,Rajasthan Royals,24
+2016,Chennai Super Kings,Punjab Kings,Chennai Super Kings,first,208,Chennai Super Kings,17
+2021,Mumbai Indians,Delhi Capitals,Delhi Capitals,first,142,Delhi Capitals,9
+2017,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,second,218,Rajasthan Royals,6
+2018,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,second,135,Rajasthan Royals,15
+2018,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,second,179,Punjab Kings,16
+2023,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,first,121,Rajasthan Royals,0
+2016,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,first,167,Kolkata Knight Riders,11
+2018,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,first,188,Royal Challengers Bangalore,4
+2023,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,first,151,Royal Challengers Bangalore,22
+2015,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,second,128,Sunrisers Hyderabad,8
+2016,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,second,218,Kolkata Knight Riders,18
+2018,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,second,167,Rajasthan Royals,15
+2017,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,first,122,Sunrisers Hyderabad,19
+2017,Punjab Kings,Rajasthan Royals,Rajasthan Royals,second,143,Rajasthan Royals,21
+2016,Delhi Capitals,Punjab Kings,Punjab Kings,second,152,Delhi Capitals,23
+2015,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,second,194,Chennai Super Kings,16
+2019,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,first,191,Sunrisers Hyderabad,3
+2017,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,first,157,Delhi Capitals,7
+2020,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,second,203,Delhi Capitals,2
+2017,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,first,208,Mumbai Indians,2
+2023,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,first,144,Royal Challengers Bangalore,17
+2016,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,second,229,Punjab Kings,17
+2016,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,first,185,Royal Challengers Bangalore,21
+2018,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,second,154,Rajasthan Royals,15
+2021,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,second,180,Sunrisers Hyderabad,8
+2017,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,second,219,Mumbai Indians,0
+2019,Mumbai Indians,Delhi Capitals,Mumbai Indians,first,187,Mumbai Indians,0
+2020,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,first,133,Kolkata Knight Riders,20
+2019,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,second,167,Kolkata Knight Riders,19
+2015,Punjab Kings,Delhi Capitals,Delhi Capitals,first,127,Punjab Kings,6
+2018,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,first,186,Royal Challengers Bangalore,16
+2019,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,second,152,Mumbai Indians,15
+2016,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,second,195,Delhi Capitals,18
+2018,Chennai Super Kings,Punjab Kings,Punjab Kings,first,205,Chennai Super Kings,22
+2023,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,second,141,Sunrisers Hyderabad,13
+2015,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,first,149,Kolkata Knight Riders,5
+2020,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,first,221,Mumbai Indians,12
+2016,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,first,170,Kolkata Knight Riders,21
+2022,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,first,127,Mumbai Indians,1
+2021,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,second,140,Delhi Capitals,0
+2015,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,first,147,Mumbai Indians,14
+2023,Punjab Kings,Chennai Super Kings,Punjab Kings,first,183,Chennai Super Kings,0
+2015,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,first,188,Kolkata Knight Riders,15
+2023,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,second,138,Chennai Super Kings,3
+2016,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,first,154,Sunrisers Hyderabad,16
+2017,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,second,136,Sunrisers Hyderabad,11
+2021,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,first,211,Royal Challengers Bangalore,13
+2022,Delhi Capitals,Chennai Super Kings,Delhi Capitals,first,125,Chennai Super Kings,2
+2019,Chennai Super Kings,Punjab Kings,Chennai Super Kings,second,224,Chennai Super Kings,4
+2019,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,first,143,Rajasthan Royals,16
+2019,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,first,165,Rajasthan Royals,20
+2017,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,first,214,Sunrisers Hyderabad,2
+2020,Rajasthan Royals,Mumbai Indians,Mumbai Indians,first,179,Rajasthan Royals,0
+2018,Delhi Capitals,Chennai Super Kings,Delhi Capitals,second,182,Delhi Capitals,20
+2019,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,first,151,Sunrisers Hyderabad,22
+2022,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,second,152,Rajasthan Royals,2
+2018,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,first,137,Mumbai Indians,24
+2023,Chennai Super Kings,Punjab Kings,Punjab Kings,second,225,Punjab Kings,21
+2021,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,second,177,Punjab Kings,2
+2021,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,second,223,Kolkata Knight Riders,13
+2021,Kolkata Knight Riders,Punjab Kings,Punjab Kings,second,143,Kolkata Knight Riders,17
+2020,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,second,151,Kolkata Knight Riders,14
+2020,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,second,205,Chennai Super Kings,22
+2022,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,first,185,Sunrisers Hyderabad,9
+2021,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,first,121,Rajasthan Royals,16
+2021,Punjab Kings,Rajasthan Royals,Punjab Kings,first,223,Rajasthan Royals,0
+2019,Punjab Kings,Chennai Super Kings,Chennai Super Kings,first,128,Punjab Kings,10
+2015,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,first,167,Royal Challengers Bangalore,6
+2023,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,second,212,Sunrisers Hyderabad,9
+2023,Mumbai Indians,Delhi Capitals,Delhi Capitals,first,145,Mumbai Indians,2
+2017,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,second,169,Punjab Kings,24
+2015,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,second,143,Chennai Super Kings,12
+2023,Mumbai Indians,Delhi Capitals,Mumbai Indians,second,179,Mumbai Indians,6
+2017,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,first,176,Delhi Capitals,3
+2021,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,second,164,Chennai Super Kings,19
+2020,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,second,184,Royal Challengers Bangalore,7
+2016,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,second,229,Royal Challengers Bangalore,15
+2021,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,first,133,Punjab Kings,11
+2017,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,first,206,Chennai Super Kings,14
+2016,Mumbai Indians,Delhi Capitals,Mumbai Indians,second,211,Mumbai Indians,1
+2019,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,second,185,Royal Challengers Bangalore,22
+2017,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,second,182,Royal Challengers Bangalore,21
+2019,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,first,170,Sunrisers Hyderabad,24
+2017,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,first,177,Chennai Super Kings,21
+2015,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,first,177,Kolkata Knight Riders,21
+2022,Chennai Super Kings,Punjab Kings,Chennai Super Kings,first,168,Chennai Super Kings,19
+2017,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,second,161,Sunrisers Hyderabad,5
+2021,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,first,134,Royal Challengers Bangalore,21
+2022,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,second,226,Sunrisers Hyderabad,4
+2020,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,second,216,Sunrisers Hyderabad,7
+2021,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,first,172,Royal Challengers Bangalore,11
+2015,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,first,227,Chennai Super Kings,4
+2022,Punjab Kings,Chennai Super Kings,Chennai Super Kings,second,222,Punjab Kings,3
+2015,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,second,125,Sunrisers Hyderabad,12
+2017,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,second,215,Chennai Super Kings,19
+2015,Punjab Kings,Chennai Super Kings,Chennai Super Kings,first,213,Punjab Kings,14
+2020,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,first,218,Kolkata Knight Riders,22
+2021,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,first,159,Sunrisers Hyderabad,19
+2021,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,first,135,Sunrisers Hyderabad,12
+2021,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,second,225,Kolkata Knight Riders,18
+2017,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,second,136,Sunrisers Hyderabad,23
+2023,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,second,182,Chennai Super Kings,18
+2019,Rajasthan Royals,Delhi Capitals,Delhi Capitals,first,211,Delhi Capitals,22
+2017,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,first,209,Kolkata Knight Riders,4
+2021,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,first,209,Royal Challengers Bangalore,20
+2023,Delhi Capitals,Mumbai Indians,Mumbai Indians,second,181,Mumbai Indians,22
+2020,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,first,128,Punjab Kings,11
+2022,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,first,120,Sunrisers Hyderabad,0
+2018,Mumbai Indians,Chennai Super Kings,Mumbai Indians,first,153,Chennai Super Kings,21
+2017,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,first,167,Kolkata Knight Riders,24
+2017,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,first,223,Mumbai Indians,12
+2023,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,second,120,Sunrisers Hyderabad,15
+2015,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,second,180,Kolkata Knight Riders,6
+2023,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,second,183,Punjab Kings,4
+2018,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,first,141,Royal Challengers Bangalore,22
+2023,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,first,186,Kolkata Knight Riders,11
+2019,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,second,145,Royal Challengers Bangalore,15
+2018,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,second,170,Kolkata Knight Riders,4
+2016,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,second,205,Royal Challengers Bangalore,24
+2017,Delhi Capitals,Chennai Super Kings,Delhi Capitals,second,148,Chennai Super Kings,13
+2020,Mumbai Indians,Delhi Capitals,Delhi Capitals,second,211,Mumbai Indians,4
+2019,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,second,166,Rajasthan Royals,16
+2018,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,second,213,Royal Challengers Bangalore,13
+2017,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,first,181,Royal Challengers Bangalore,19
+2022,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,first,188,Rajasthan Royals,11
+2023,Kolkata Knight Riders,Punjab Kings,Punjab Kings,first,135,Punjab Kings,15
+2023,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,second,204,Kolkata Knight Riders,6
+2015,Delhi Capitals,Punjab Kings,Delhi Capitals,second,219,Delhi Capitals,0
+2022,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,first,213,Rajasthan Royals,4
+2023,Punjab Kings,Rajasthan Royals,Rajasthan Royals,second,142,Rajasthan Royals,9
+2015,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,second,188,Delhi Capitals,3
+2023,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,second,153,Rajasthan Royals,19
+2021,Chennai Super Kings,Mumbai Indians,Mumbai Indians,first,214,Chennai Super Kings,9
+2016,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,first,138,Punjab Kings,0
+2021,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,second,188,Chennai Super Kings,12
+2020,Delhi Capitals,Mumbai Indians,Delhi Capitals,first,123,Delhi Capitals,15
+2018,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,second,143,Kolkata Knight Riders,15
+2017,Punjab Kings,Delhi Capitals,Punjab Kings,first,121,Delhi Capitals,16
+2018,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,first,211,Mumbai Indians,19
+2016,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,second,143,Rajasthan Royals,11
+2022,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,first,169,Rajasthan Royals,2
+2020,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,first,152,Mumbai Indians,0
+2015,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,second,180,Sunrisers Hyderabad,18
+2019,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,first,162,Sunrisers Hyderabad,4
+2019,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,second,131,Delhi Capitals,2
+2019,Mumbai Indians,Punjab Kings,Mumbai Indians,second,184,Punjab Kings,0
+2023,Mumbai Indians,Punjab Kings,Mumbai Indians,second,159,Punjab Kings,9
+2022,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,second,162,Rajasthan Royals,11
+2020,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,second,148,Kolkata Knight Riders,12
+2020,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,first,131,Chennai Super Kings,13
+2018,Delhi Capitals,Mumbai Indians,Mumbai Indians,first,121,Mumbai Indians,18
+2021,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,first,154,Royal Challengers Bangalore,22
+2017,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,second,200,Rajasthan Royals,7
+2019,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,second,212,Royal Challengers Bangalore,9
+2018,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,first,209,Royal Challengers Bangalore,1
+2015,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,second,224,Rajasthan Royals,6
+2019,Mumbai Indians,Chennai Super Kings,Mumbai Indians,first,187,Chennai Super Kings,20
+2021,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,second,228,Chennai Super Kings,10
+2018,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,second,148,Chennai Super Kings,23
+2019,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,second,155,Sunrisers Hyderabad,24
+2015,Kolkata Knight Riders,Punjab Kings,Punjab Kings,second,140,Kolkata Knight Riders,24
+2017,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,first,155,Mumbai Indians,9
+2023,Punjab Kings,Rajasthan Royals,Punjab Kings,first,220,Rajasthan Royals,8
+2021,Delhi Capitals,Punjab Kings,Punjab Kings,second,143,Delhi Capitals,2
+2017,Mumbai Indians,Rajasthan Royals,Mumbai Indians,first,168,Mumbai Indians,2
+2018,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,first,155,Delhi Capitals,17
+2015,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,second,222,Chennai Super Kings,23
+2022,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,first,142,Kolkata Knight Riders,4
+2016,Punjab Kings,Rajasthan Royals,Punjab Kings,second,131,Punjab Kings,16
+2021,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,second,174,Sunrisers Hyderabad,12
+2019,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,first,142,Rajasthan Royals,24
+2019,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,first,218,Kolkata Knight Riders,8
+2017,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,first,149,Kolkata Knight Riders,16
+2022,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,first,181,Delhi Capitals,19
+2020,Mumbai Indians,Chennai Super Kings,Mumbai Indians,second,208,Chennai Super Kings,21
+2021,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,second,132,Mumbai Indians,18
+2022,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,second,168,Royal Challengers Bangalore,3
+2021,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,second,131,Delhi Capitals,8
+2022,Mumbai Indians,Rajasthan Royals,Mumbai Indians,first,138,Mumbai Indians,11
+2018,Rajasthan Royals,Punjab Kings,Rajasthan Royals,second,128,Punjab Kings,6
+2017,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,first,147,Royal Challengers Bangalore,13
+2017,Punjab Kings,Mumbai Indians,Mumbai Indians,first,214,Punjab Kings,19
+2015,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,first,202,Sunrisers Hyderabad,14
+2019,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,first,135,Chennai Super Kings,20
+2023,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,first,188,Royal Challengers Bangalore,2
+2023,Punjab Kings,Mumbai Indians,Punjab Kings,first,131,Mumbai Indians,24
+2017,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,first,171,Kolkata Knight Riders,20
+2017,Punjab Kings,Chennai Super Kings,Punjab Kings,first,219,Punjab Kings,20
+2018,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,second,142,Delhi Capitals,15
+2015,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,first,176,Rajasthan Royals,6
+2019,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,first,228,Rajasthan Royals,20
+2018,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,second,161,Royal Challengers Bangalore,6
+2021,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,second,133,Mumbai Indians,4
+2020,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,second,154,Delhi Capitals,22
+2021,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,second,212,Delhi Capitals,10
+2018,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,first,194,Kolkata Knight Riders,17
+2021,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,first,195,Royal Challengers Bangalore,8
+2023,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,second,193,Sunrisers Hyderabad,11
+2023,Punjab Kings,Rajasthan Royals,Punjab Kings,first,136,Rajasthan Royals,5
+2020,Mumbai Indians,Delhi Capitals,Mumbai Indians,first,126,Mumbai Indians,13
+2016,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,second,132,Royal Challengers Bangalore,7
+2017,Mumbai Indians,Rajasthan Royals,Mumbai Indians,first,161,Mumbai Indians,8
+2017,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,first,169,Punjab Kings,1
+2020,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,second,124,Royal Challengers Bangalore,4
+2019,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,second,157,Royal Challengers Bangalore,18
+2015,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,second,127,Rajasthan Royals,15
+2016,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,second,228,Delhi Capitals,0
+2018,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,second,205,Sunrisers Hyderabad,19
+2018,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,first,136,Sunrisers Hyderabad,6
+2023,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,second,208,Delhi Capitals,12
+2019,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,first,123,Mumbai Indians,3
+2022,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,first,189,Delhi Capitals,18
+2016,Punjab Kings,Chennai Super Kings,Punjab Kings,first,180,Punjab Kings,11
+2018,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,second,173,Sunrisers Hyderabad,6
+2022,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,second,210,Punjab Kings,9
+2018,Delhi Capitals,Punjab Kings,Punjab Kings,second,209,Delhi Capitals,18
+2021,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,second,158,Delhi Capitals,2
+2016,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,first,164,Sunrisers Hyderabad,12
+2018,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,second,211,Sunrisers Hyderabad,19
+2021,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,second,211,Kolkata Knight Riders,7
+2019,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,second,180,Royal Challengers Bangalore,8
+2020,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,second,158,Delhi Capitals,0
+2017,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,first,122,Delhi Capitals,12
+2019,Mumbai Indians,Delhi Capitals,Mumbai Indians,second,211,Delhi Capitals,24
+2021,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,second,182,Mumbai Indians,16
+2018,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,second,144,Royal Challengers Bangalore,23
+2015,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,first,152,Kolkata Knight Riders,5
+2017,Delhi Capitals,Rajasthan Royals,Delhi Capitals,first,125,Rajasthan Royals,11
+2018,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,first,164,Kolkata Knight Riders,12
+2018,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,first,180,Delhi Capitals,14
+2019,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,second,140,Punjab Kings,15
+2021,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,first,204,Sunrisers Hyderabad,10
+2022,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,first,220,Delhi Capitals,3
+2018,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,second,218,Kolkata Knight Riders,18
+2019,Mumbai Indians,Punjab Kings,Punjab Kings,second,139,Punjab Kings,24
+2021,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,first,137,Chennai Super Kings,14
+2023,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,first,224,Delhi Capitals,16
+2022,Delhi Capitals,Rajasthan Royals,Delhi Capitals,second,133,Rajasthan Royals,14
+2022,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,second,150,Sunrisers Hyderabad,0
+2016,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,second,173,Punjab Kings,21
+2017,Mumbai Indians,Punjab Kings,Punjab Kings,first,122,Mumbai Indians,15
+2022,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,first,206,Punjab Kings,24
+2019,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,first,194,Sunrisers Hyderabad,11
+2021,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,second,193,Sunrisers Hyderabad,15
+2023,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,second,191,Sunrisers Hyderabad,5
+2019,Delhi Capitals,Chennai Super Kings,Delhi Capitals,first,195,Chennai Super Kings,23
+2022,Rajasthan Royals,Delhi Capitals,Delhi Capitals,first,147,Delhi Capitals,20
+2016,Rajasthan Royals,Mumbai Indians,Mumbai Indians,second,127,Mumbai Indians,3
+2021,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,first,209,Royal Challengers Bangalore,7
+2023,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,second,177,Kolkata Knight Riders,17
+2017,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,second,147,Delhi Capitals,4
+2019,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,second,160,Delhi Capitals,3
+2019,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,first,183,Chennai Super Kings,21
+2015,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,second,182,Punjab Kings,16
+2019,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,second,192,Sunrisers Hyderabad,0
+2021,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,first,203,Punjab Kings,12
+2016,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,second,211,Delhi Capitals,15
+2017,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,first,148,Sunrisers Hyderabad,12
+2018,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,second,165,Punjab Kings,2
+2016,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,first,125,Kolkata Knight Riders,17
+2017,Mumbai Indians,Delhi Capitals,Delhi Capitals,second,188,Mumbai Indians,14
+2021,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,second,144,Rajasthan Royals,1
+2018,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,first,129,Chennai Super Kings,23
+2021,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,first,149,Royal Challengers Bangalore,17
+2023,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,second,228,Royal Challengers Bangalore,4
+2017,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,second,152,Kolkata Knight Riders,21
+2020,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,second,184,Rajasthan Royals,17
+2016,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,first,215,Punjab Kings,14
+2019,Delhi Capitals,Mumbai Indians,Delhi Capitals,first,168,Delhi Capitals,10
+2020,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,first,204,Chennai Super Kings,24
+2023,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,second,205,Royal Challengers Bangalore,16
+2023,Punjab Kings,Mumbai Indians,Mumbai Indians,second,196,Mumbai Indians,0
+2020,Punjab Kings,Chennai Super Kings,Punjab Kings,first,217,Chennai Super Kings,8
+2016,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,second,218,Rajasthan Royals,0
+2021,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,first,140,Sunrisers Hyderabad,15
+2021,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,second,174,Royal Challengers Bangalore,5
+2016,Rajasthan Royals,Punjab Kings,Punjab Kings,second,211,Punjab Kings,16
+2017,Chennai Super Kings,Punjab Kings,Punjab Kings,first,188,Chennai Super Kings,4
+2016,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,first,221,Mumbai Indians,2
+2021,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,second,172,Sunrisers Hyderabad,22
+2018,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,first,220,Chennai Super Kings,20
+2020,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,second,156,Rajasthan Royals,9
+2023,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,first,193,Mumbai Indians,18
+2021,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,second,136,Royal Challengers Bangalore,20
+2023,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,second,197,Chennai Super Kings,8
+2018,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,first,229,Punjab Kings,0
+2019,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,second,170,Rajasthan Royals,12
+2021,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,first,196,Punjab Kings,3
+2019,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,first,181,Sunrisers Hyderabad,0
+2020,Chennai Super Kings,Mumbai Indians,Mumbai Indians,first,223,Mumbai Indians,1
+2022,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,second,211,Mumbai Indians,7
+2016,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,second,158,Chennai Super Kings,1
+2023,Delhi Capitals,Mumbai Indians,Mumbai Indians,first,173,Delhi Capitals,21
+2021,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,second,122,Delhi Capitals,17
+2021,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,first,131,Chennai Super Kings,0
+2019,Delhi Capitals,Rajasthan Royals,Delhi Capitals,first,173,Rajasthan Royals,11
+2015,Mumbai Indians,Delhi Capitals,Mumbai Indians,first,124,Delhi Capitals,24
+2020,Rajasthan Royals,Mumbai Indians,Mumbai Indians,first,136,Mumbai Indians,15
+2023,Mumbai Indians,Delhi Capitals,Delhi Capitals,first,166,Mumbai Indians,22
+2018,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,first,198,Kolkata Knight Riders,4
+2022,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,second,204,Royal Challengers Bangalore,13
+2020,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,second,185,Rajasthan Royals,10
+2022,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,second,170,Sunrisers Hyderabad,6
+2015,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,second,157,Punjab Kings,1
+2019,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,second,157,Mumbai Indians,17
+2022,Mumbai Indians,Delhi Capitals,Delhi Capitals,second,217,Delhi Capitals,17
+2022,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,first,149,Chennai Super Kings,14
+2022,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,first,210,Royal Challengers Bangalore,18
+2018,Delhi Capitals,Punjab Kings,Punjab Kings,second,182,Punjab Kings,1
+2019,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,first,171,Chennai Super Kings,24
+2022,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,first,157,Rajasthan Royals,0
+2021,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,first,207,Mumbai Indians,14
+2015,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,first,149,Royal Challengers Bangalore,22
+2021,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,second,225,Chennai Super Kings,18
+2023,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,second,200,Rajasthan Royals,4
+2019,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,second,148,Kolkata Knight Riders,3
+2021,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,second,129,Royal Challengers Bangalore,23
+2017,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,first,136,Mumbai Indians,9
+2017,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,second,136,Rajasthan Royals,19
+2020,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,first,207,Royal Challengers Bangalore,4
+2017,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,first,153,Sunrisers Hyderabad,5
+2017,Punjab Kings,Rajasthan Royals,Punjab Kings,second,172,Punjab Kings,1
+2022,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,first,196,Chennai Super Kings,10
+2019,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,first,162,Sunrisers Hyderabad,15
+2022,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,first,194,Royal Challengers Bangalore,18
+2020,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,first,142,Rajasthan Royals,22
+2020,Kolkata Knight Riders,Punjab Kings,Punjab Kings,second,199,Punjab Kings,10
+2016,Punjab Kings,Mumbai Indians,Mumbai Indians,second,135,Mumbai Indians,7
+2020,Punjab Kings,Rajasthan Royals,Punjab Kings,first,123,Punjab Kings,7
+2020,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,first,123,Kolkata Knight Riders,23
+2022,Punjab Kings,Chennai Super Kings,Chennai Super Kings,second,144,Punjab Kings,2
+2019,Punjab Kings,Chennai Super Kings,Chennai Super Kings,first,215,Chennai Super Kings,2
+2018,Mumbai Indians,Delhi Capitals,Delhi Capitals,first,146,Delhi Capitals,17
+2021,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,second,180,Sunrisers Hyderabad,18
+2022,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,second,138,Mumbai Indians,20
+2019,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,second,124,Chennai Super Kings,17
+2021,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,second,211,Royal Challengers Bangalore,9
+2019,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,second,180,Royal Challengers Bangalore,21
+2015,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,second,140,Royal Challengers Bangalore,5
+2017,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,second,120,Rajasthan Royals,4
+2023,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,first,224,Kolkata Knight Riders,11
+2018,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,first,209,Rajasthan Royals,13
+2015,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,second,153,Delhi Capitals,16
+2016,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,second,197,Kolkata Knight Riders,12
+2017,Mumbai Indians,Delhi Capitals,Delhi Capitals,first,146,Delhi Capitals,8
+2019,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,first,145,Mumbai Indians,24
+2020,Delhi Capitals,Chennai Super Kings,Delhi Capitals,second,166,Delhi Capitals,24
+2017,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,second,205,Royal Challengers Bangalore,14
+2018,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,first,175,Royal Challengers Bangalore,10
+2020,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,second,182,Mumbai Indians,15
+2023,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,first,180,Mumbai Indians,16
+2018,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,first,145,Kolkata Knight Riders,3
+2021,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,first,120,Sunrisers Hyderabad,7
+2016,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,first,218,Royal Challengers Bangalore,19
+2017,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,second,198,Rajasthan Royals,14
+2017,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,second,175,Rajasthan Royals,21
